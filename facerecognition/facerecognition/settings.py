@@ -59,6 +59,11 @@ MIDDLEWARE = [
     "django.middleware.clickjacking.XFrameOptionsMiddleware",
 ]
 
+CSRF_TRUSTED_ORIGINS = [
+    'https://face-recognition-web2.onrender.com',
+    # Include any other domains you might use
+]
+
 ROOT_URLCONF = "facerecognition.urls"
 
 TEMPLATES = [
