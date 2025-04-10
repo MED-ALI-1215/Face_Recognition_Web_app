@@ -27,7 +27,8 @@ SECRET_KEY = "django-insecure-a%9h0a^j0)b)(qv68q^yir*76cfz63ggaqt--40_2$u_377vwq
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['Face_Recognition_Web.onrender.com']
+ALLOWED_HOSTS = ['face-recognition-web1-g9cz.onrender.com']
+
 
 
 
