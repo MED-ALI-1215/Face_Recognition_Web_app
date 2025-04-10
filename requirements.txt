@@ -1,0 +1,12 @@
+asgiref==3.8.1
+Django==4.2.20
+joblib==1.4.2
+numpy==2.0.2
+opencv-python-headless==4.11.0.86
+pillow==11.1.0
+scikit-learn==1.6.1
+scipy==1.13.1
+sqlparse==0.5.3
+threadpoolctl==3.6.0
+typing_extensions==4.13.1
+tzdata==2025.2
